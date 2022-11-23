@@ -1,2 +1,3 @@
-# Dashboard-para-analise-fundamentalista
-Arquivos utilizados no desenvolvimento do Dashboard para Análise Fundamentalista
+A descrção detalhada de cada etapa do processo foi descrita no link abaixo:
+
+https://www.makerzine.com.br/tag/analise-fundamentalista/
