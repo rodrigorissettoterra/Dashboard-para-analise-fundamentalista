@@ -1,0 +1,4 @@
+verde: #98d062
+azul: #57afd3
+azul escuro: #315b68
+roxo: #863FEA
